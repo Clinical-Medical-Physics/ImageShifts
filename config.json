@@ -1,0 +1,8 @@
+{
+"mysql":{
+    "server" : "variandbserver",
+    "username" : "sqlusername",
+    "password" : "sqlpassword",
+    "db" : "dbname"
+    }
+}
